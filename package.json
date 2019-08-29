@@ -1,5 +1,5 @@
 {
-  "name": "zcrmsdk",
+  "name": "@samuelzv/zcrmsdk",
   "version": "1.0.0",
   "description": "Node SDK for Zoho CRM",
   "main": "lib/js/ZCRMRestClient",
